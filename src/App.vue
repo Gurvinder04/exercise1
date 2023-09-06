@@ -12,6 +12,7 @@ import HelloWorld from './components/HelloWorld.vue'
     </a>
   </div>
   <HelloWorld msg="Gurvinder + kaur +Himmat" />
+  <HelloWorld msg="Gurvinder + kaur \=hbjhdcbdj" />
 </template>
 
 <style scoped>
